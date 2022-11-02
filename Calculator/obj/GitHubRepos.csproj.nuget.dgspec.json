@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/GitHubRepos.csproj": {}
+  },
+  "projects": {
+    "/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/GitHubRepos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/GitHubRepos.csproj",
+        "projectName": "GitHubRepos",
+        "projectPath": "/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/GitHubRepos.csproj",
+        "packagesPath": "/home/ivan321pum/.nuget/packages/",
+        "outputPath": "/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ivan321pum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "Avalonia.Skia.Desktop": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "Avalonia.Win32": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/net6.0/Calculator
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/net6.0/ref/Calculator.dll

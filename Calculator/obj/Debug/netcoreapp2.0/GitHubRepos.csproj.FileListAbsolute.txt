@@ -1,0 +1,13 @@
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/netcoreapp2.0/GitHubRepos.deps.json
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/netcoreapp2.0/GitHubRepos.runtimeconfig.json
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/netcoreapp2.0/GitHubRepos.runtimeconfig.dev.json
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/netcoreapp2.0/GitHubRepos.dll
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/bin/Debug/netcoreapp2.0/GitHubRepos.pdb
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.csproj.AssemblyReference.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.AssemblyInfoInputs.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.AssemblyInfo.cs
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.csproj.CoreCompileInputs.cache
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.dll
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.pdb
+/home/ivan321pum/Documents/GitHub/Open-Calculator/Calculator/obj/Debug/netcoreapp2.0/GitHubRepos.genruntimeconfig.cache

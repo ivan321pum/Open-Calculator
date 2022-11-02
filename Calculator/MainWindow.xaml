@@ -1,0 +1,7 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GitHub Repositories">
+        <StackPanel HorizontalAlignment="Center">
+                <Button Content="¡Hola mundo!"></Button>
+        </StackPanel>
+</Window>
